@@ -9,7 +9,7 @@
 7. Slerp
 
 ![Screenshot](result.png)  
-Rezultat rada algoritama
+Rezultat rada algoritama  
 ![Screenshot](animacija.gif)  
 Slerp animacija
 
