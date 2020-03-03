@@ -2,7 +2,7 @@
 
 ![Screenshot](outputs/pts1.png)  
 3D rekonstrukcija sa 2 objekta  
-![Screenshot](outputs/pts2.gif)  
+![Screenshot](outputs/pts2.png)  
 3D rekonstrukcija sa 3 objekta  
 
 ## Pokretanje
