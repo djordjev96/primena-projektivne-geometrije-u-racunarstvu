@@ -5,10 +5,10 @@
 3. Modifikovani DLT algoritam (sa normalizacijom)
 4. Aplikacija koja učitava sliku, korisnik bira mišem 4 piksela koji se slikaju u pravougaonik a aplikacija vraća sliku sa otklonjenom projektivnom distorzijom
 
-![Screenshot](result.png)
-Rezultat rada algoritama
-![Screenshot](test.png)
-Rezultat rada aplikacije
+![Screenshot](result.png)  
+Rezultat rada algoritama  
+![Screenshot](test.png)  
+Rezultat rada aplikacije  
 
 ## Pokretanje
 ```bash
